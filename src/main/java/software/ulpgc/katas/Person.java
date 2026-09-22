@@ -19,4 +19,12 @@ public class Person {
     public LocalDate birthday() {
         return birthday;
     }
+
+    public int age(){
+        return toYears(LocalDate.now().toEpochDay() - birthday.toEpochDay());
+    }
+
+    private int toYears(long days) {
+        return (int) (days / 365.25);
+    }
 }
