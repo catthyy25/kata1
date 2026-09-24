@@ -14,7 +14,7 @@ El proyecto se gestiona con Maven. Para compilarlo y ejecutarlo basta con abrirl
 ## Estructura de la entrega y clases principales
  
 El proyecto sigue la estructura estándar de Maven:
-
+´´´
 software/
 ├── pom.xml
 ├── .gitignore
@@ -25,7 +25,7 @@ software/
             └── software/
                 ├── Main.java      # Código principal del programa
                 └── Person.java    # Clase Person de la kata (nombre, edad, fecha de nacimiento)
-
+´´´
 La clase **Person** fue evolucionando en distintos commits: primero con el nombre, luego con la fecha de nacimiento, después con la edad calculada, eliminando el número mágico **DAYS_PER_YEARS**, y finalmente convertida a **record**.
 
 ## Flujo de Git usado
