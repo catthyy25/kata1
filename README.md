@@ -66,7 +66,7 @@ Para practicar de cara a la grabación del vídeo, se realizaron dos repeticione
 
 A continuación se muestra la consola tras ejecutar `Main`, confirmando que el programa finaliza correctamente (exit code 0) y que la edad calculada para Lucía es 21, como se esperaba:
  
-![Resultado de la ejecución](<img width="623" height="128" alt="captura main kata 1" src="https://github.com/user-attachments/assets/4609f472-3360-42b7-ac31-3a990020fd7b" />)
+(<img width="623" height="128" alt="captura main kata 1" src="https://github.com/user-attachments/assets/4609f472-3360-42b7-ac31-3a990020fd7b" />)
 
 
 ## Atajos de teclado utilizados
