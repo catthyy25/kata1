@@ -64,6 +64,21 @@ Para practicar de cara a la grabación del vídeo, se realizaron dos repeticione
 - Se revisó el historial de commits en GitHub para confirmar que todas las ramas (`master`, `develop`, `repetition-1`, `repetition-2`) están correctamente subidas al remoto.
 - Se utilizó el **debugger** de IntelliJ, colocando breakpoints en puntos clave del código (constructor y método que calcula la edad de la persona), para seguir paso a paso la ejecución del programa y verificar el flujo del IDE y el comportamiento correcto de la clase `Person`.
 
+## Atajos de teclado utilizados
+
+Durante el desarrollo de la kata se utilizaron los siguientes atajos de IntelliJ IDEA:
+
+| Atajo | Uso |
+|---|---|
+| `Alt + Ins` | Crear un nuevo *package*, una nueva clase Java, un nuevo archivo (p. ej. `README.md`), o generar constructor/getter/setter, y también para que el IDE cree automáticamente un método a partir de su uso (p. ej. `toYears`). |
+| `Shift + Tab` | Moverse hacia atrás entre los huecos que propone el IDE al generar un método automáticamente (hacia delante se usa `Tab`). |
+| `Control + K` | Abrir la ventana de commit para escribir el mensaje del commit. |
+| `Control + Enter` | Confirmar y realizar el commit. |
+| `Alt + 9` | Abrir la ventana de Git para ver ramas y commits. |
+| `Shift + F6` | Renombrar de forma segura un método o variable en todo el código (usado, por ejemplo, al renombrar `birthday`). |
+| `Control + Alt + C` o `Refactor` | Extraer un valor como constante (usado para eliminar el número mágico y crear `DAYS_PER_YEAR`). |
+| `Alt + Enter` | Mostrar acciones rápidas del IDE, como convertir la clase `Person` en `record`. |
+
 ## Vídeo explicativo
  
 - Enlace en YouTube: *(poner)*
