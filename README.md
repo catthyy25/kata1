@@ -86,7 +86,7 @@ Durante el desarrollo de la kata se utilizaron los siguientes atajos de IntelliJ
 
 ## Vídeo explicativo
  
-- Enlace en YouTube: *(poner)*
-- Enlace en Drive: *(poner)*
+- **Enlace en YouTube:** https://youtu.be/PQPhtOAE2AQ?si=xLP42TarE7dy0Aj5
+- **Enlace en Drive:** https://drive.google.com/file/d/1yw1DOLYLl5SpIr6fAX9eG3deuKP2oV00/view?usp=sharing
 
 
