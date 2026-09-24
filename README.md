@@ -64,6 +64,11 @@ Para practicar de cara a la grabación del vídeo, se realizaron dos repeticione
 - Se revisó el historial de commits en GitHub para confirmar que todas las ramas (`master`, `develop`, `repetition-1`, `repetition-2`) están correctamente subidas al remoto.
 - Se utilizó el **debugger** de IntelliJ, colocando breakpoints en puntos clave del código (constructor y método que calcula la edad de la persona), para seguir paso a paso la ejecución del programa y verificar el flujo del IDE y el comportamiento correcto de la clase `Person`.
 
+A continuación se muestra la consola tras ejecutar `Main`, confirmando que el programa finaliza correctamente (exit code 0) y que la edad calculada para Lucía es 21, como se esperaba:
+ 
+![Resultado de la ejecución](<img width="623" height="128" alt="captura main kata 1" src="https://github.com/user-attachments/assets/4609f472-3360-42b7-ac31-3a990020fd7b" />)
+
+
 ## Atajos de teclado utilizados
 
 Durante el desarrollo de la kata se utilizaron los siguientes atajos de IntelliJ IDEA:
